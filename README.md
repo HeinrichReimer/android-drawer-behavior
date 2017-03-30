@@ -1,15 +1,12 @@
-Drawer Behavior for CoordinatorLayout
-=====================================
+# Drawer Behavior (for `CoordinatorLayout`)
 
-A `CoordinatorLayout` behavior which mimics the functionality of `DrawerLayout`.
+[![Build Status](https://travis-ci.org/heinrichreimer/android-drawer-behavior.svg?branch=master)](https://travis-ci.org/heinrichreimer/android-drawer-behavior)
 
-TODO explain why
+_A `CoordinatorLayout` behavior which mimics the functionality of `DrawerLayout`._
 
-TODO embed gif
-
-TODO download section
-
-
+- **TODO:** Explain why
+- **TODO:** Embed GIF
+- **TODO:** Download section
 
 License
 -------
